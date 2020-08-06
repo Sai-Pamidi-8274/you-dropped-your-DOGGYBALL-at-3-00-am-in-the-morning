@@ -1,2 +1,2 @@
-# you-dropped-your-DOGGYBALL-at-3-00-am-in-the-morning
-Doge
+# staticSquare
+A static square made using Matter.js physics engine
